@@ -1,0 +1,47 @@
+{
+  "thunder": {
+    "OPEN_WEATHER_MAP": [200, 201, 202, 210, 211, 212, 221, 230, 231, 232, 906]
+  },
+  "rain-and-snow": {
+    "OPEN_WEATHER_MAP": [615, 616]
+  },
+  "rain-and-sleet": {
+    "OPEN_WEATHER_MAP": [611, 612]
+  },
+  "few-showers": {
+    "OPEN_WEATHER_MAP": [300, 301, 302, 310, 311, 500, 501, 520, 521]
+  },
+  "rain": {
+    "OPEN_WEATHER_MAP": [312, 313, 314, 321, 502, 503, 504, 522, 531]
+  },
+  "light-snow": {
+    "OPEN_WEATHER_MAP": [600, 611, 612, 620, 621, 622]
+  },
+  "snow": {
+    "OPEN_WEATHER_MAP": [601, 602]
+  },
+  "fog": {
+    "OPEN_WEATHER_MAP": [701, 711, 721, 731, 741, 751, 761, 762]
+  },
+  "cold": {
+    "OPEN_WEATHER_MAP": [903]
+  },
+  "cloudy": {
+    "OPEN_WEATHER_MAP": [804,771, 781, 900, 901, 902, 905, 957, 958, 959, 960, 961, 962]
+  },
+  "mostly-cloudy": {
+    "OPEN_WEATHER_MAP": [801, 802, 803]
+  },
+  "partly-cloudy": {
+    "OPEN_WEATHER_MAP": []
+  },
+  "sunny": {
+    "OPEN_WEATHER_MAP": [800, 904]
+  },
+  "scattered-thunder-showers": {
+    "OPEN_WEATHER_MAP": []
+  },
+  "unknown": {
+    "OPEN_WEATHER_MAP": []
+  }
+}
